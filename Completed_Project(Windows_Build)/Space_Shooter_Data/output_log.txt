@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     813 MB
+    Driver:   8.15.10.2993
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll (this message is harmless)
+Loading C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Shaun\Programming\Source\Projects\Unity Projects\Old Projects\Space shooter\Completed_Project(Windows_Build)\Space_Shooter_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1024x768 40Hz; virtual: 1024x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.501320 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2148 -> priority: 1 
+  Thread -> id: 1aa8 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.545370 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 922.
+Total: 2.021392 ms (FindLiveObjects: 0.069676 ms CreateObjectMapping: 0.071216 ms MarkObjects: 1.735756 ms  DeleteObjects: 0.143587 ms)
+
